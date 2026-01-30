@@ -1,7 +1,7 @@
 # upi-qr-generator
 import qrcode
 
-upi_id = "7080308932@naviaxis"        
+upi_id = "ayush893singh@okaxis"        
 name = "Ayush Singh"          
 note = "Payment for Bill"  
 upi_url = (
