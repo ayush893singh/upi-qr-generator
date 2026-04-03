@@ -38,8 +38,8 @@ qr.save("upi_payment_qr.png")
 print("UPI Payment Ready QR generated")
 ```
 ## ---- Output ----
-- Ek `upi_payment_qr.png` file generate hoti hai
-- Koi bhi UPI app (GPay, PhonePe, Paytm) se scan karke payment kar sakta hai
+Ek upi_payment_qr.png` file generate hoti hai
+ Koi bhi UPI app (GPay, PhonePe, Paytm) se scan karke payment kar sakta hai
 
 ## Author
 **Ayush Singh**  
