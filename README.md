@@ -22,7 +22,7 @@ python upi_qr_generator.py
 import qrcode
 
 upi_id = "7080308932@naviaxis"
-name = "AYUSH"
+name = "AYUSH SINGH"
 note = "Payment for Bill"
 
 upi_url = (
