@@ -36,6 +36,7 @@ qr = qrcode.make(upi_url)
 qr.save("upi_payment_qr.png")
 
 print("UPI Payment Ready QR generated")
+print("Save to file")
 ```
 ## ---- Output ----
 Ek upi_payment_qr.png` file generate hoti hai
